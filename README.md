@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srennou&show_icons=true&locale=en&layout=compact" alt="srennou" /></p>
 
-     <img  alt="srennou's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/srennou?cardType=level&theme=vue-dark" /> 
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=vue-dark">  <img  alt="srennou's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/srennou?cardType=level&theme=vue-dark" /> </a>
