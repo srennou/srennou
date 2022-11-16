@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srennou&show_icons=true&locale=en&layout=compact" alt="srennou" /></p>
 
-   <a href="#" style="pointer-events: none;
-   cursor: default;
-">    <img  alt="srennou's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/srennou?cardType=level&theme=vue" />  </a>
+   <a href="#" style="">    <img  alt="srennou's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/srennou?cardType=level&theme=vue" />  </a>
