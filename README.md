@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Laravel , Vue**
 
-- 📫 How to reach me **mohamed@srennou.com**
+- 📫 How to reach me **simosrennou@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
