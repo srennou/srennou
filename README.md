@@ -696,8 +696,3 @@
     />
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srennou&show_icons=true&locale=en&layout=compact" alt="srennou" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srennou&show_icons=true&locale=en" alt="srennou" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srennou&" alt="srennou" /></p>
