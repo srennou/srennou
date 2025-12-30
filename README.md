@@ -336,7 +336,7 @@
 <p align="left" style="margin-left: 2em">
   <a href="https://www.melistechnology.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://media.licdn.com/dms/image/v2/D4D0BAQGxWNZJu9xgiQ/company-logo_200_200/company-logo_200_200/0/1731628389687/melis_technology_logo?e=1740009600&v=beta&t=HMt_SEqORZq3Ht-pf2bGLzX42aa92M2PFIrTnhZPYAs"
+      src="https://try.melisplatform.com/MelisCore/images/login/melis-box.png"
       alt="MelisPlatform"
       width="40"
       height="40"
