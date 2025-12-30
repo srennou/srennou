@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm SRENNOU Mohamed</h1>
 <h3 align="center">A passionate Full Spectrum Development Engineer – Development, Automation, Devops, and Testing</h3>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=srennou)](https://github.com/ryo-ma/github-profile-trophy) </p>
-
 - 🌱 I’m currently learning **threejs**
 
 - 💬 Ask me about **Anything**
